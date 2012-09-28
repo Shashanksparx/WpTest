@@ -1,1 +1,1 @@
-<?php echo "Shashank" ?>
+<?php echo "wp test" ?>
